@@ -1,0 +1,15 @@
+```@meta
+CurrentModule = AlgebraicSolving
+```
+
+# Examples
+
+## Katsura-n
+
+### Functionality
+
+```@docs
+    katsura(n::Int)
+    katsura(R::MPolyRing)
+```
+
